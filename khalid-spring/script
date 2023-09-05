@@ -1,3 +1,3 @@
-CREATE USER 'khalid'@'%' IDENTIFIED BY 'password123_DONG';
+CREATE USER 'flinta'@'%' IDENTIFIED BY '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';
 GRANT ALL PRIVILEGES ON db_example.* TO 'khalid'@'%';
 FLUSH PRIVILEGES;
